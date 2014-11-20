@@ -6,4 +6,5 @@ How to use tool
 2. Open Terminal 
 3. cd Devos_ApkTool
 4. ./devosmenu.sh
+5. CL
 ==================================================
